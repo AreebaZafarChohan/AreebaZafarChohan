@@ -38,7 +38,7 @@
 ---
 
 <div align="center">
- ### ⚡ My GitHub Journey in Motion
+  
 ![snake gif](https://github.com/AreebaZafarChohan/AreebaZafarChohan/blob/output/github-snake-dark.svg)
   
   <div/>
