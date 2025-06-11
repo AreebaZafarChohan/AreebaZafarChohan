@@ -9,12 +9,8 @@
 
 ---
 
-## 🚀 About Me
-
-💻 **Full Stack Developer** with expertise in modern web technologies  
-🤖 Currently focused on **OpenAI SDK & Multi-Agent Systems**  
-🌱 Learning **advanced AI agent architectures** and implementations  
-✨ Passionate about building **intelligent, responsive web applications**  
+# 💫 About Me:
+🧠 Diving deep into Agentic & Robotics AI Systems  <br>🎓 Student Leader at the Governor Sindh’s GenAI, Web3 & Metaverse Initiative  <br>🔗 Portfolio: [Areeba Zafar Portfolio](https://my-portfolio-nextjs-brown.vercel.app/)  <br>🚀 Crafting powerful full-stack and AI-driven applications using Next.js 15, Tailwind CSS, FastAPI, Streamlit, CrewAI, and more  <br>🤝 Passionate about building **intelligent, responsive, web applications**, or **AI agents**  <br>💬 Let’s talk about anything from modern web/app development to GenAI, SDKs, OpenAI Agents, and Metaverse innovations
 
 ---
 
@@ -24,47 +20,23 @@
 
 ## 🌟 Current Focus
 
-<div style="background: #111827; color: white; padding: 1.5rem; border-radius: 0.5rem; border-left: 4px solid #6366F1; animation: pulse 2s infinite;">
-  <style>
-    @keyframes pulse {
-      0% { box-shadow: 0 0 0 0 rgba(99, 102, 241, 0.4); }
-      70% { box-shadow: 0 0 0 10px rgba(99, 102, 241, 0); }
-      100% { box-shadow: 0 0 0 0 rgba(99, 102, 241, 0); }
-    }
-  </style>
-  <h3 style="margin-top: 0; color: #EC4899;">🔭 Working On</h3>
-  <ul>
-    <li>Building AI Agents with OpenAI SDK</li>
-    <li>Developing full-stack applications with Next.js and FastAPI</li>
-    <li>Creating interactive AI-powered web apps with Streamlit</li>
-    <li>Exploring multi-agent systems architectures</li>
-  </ul>
-</div>
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/areebazafar715/areebazafar715/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/areebazafar715/areebazafar715/output/github-snake.svg" /> <img alt="GitHub Snake Contribution Graph" src="https://raw.githubusercontent.com/areebazafar715/areebazafar715/output/github-snake.svg" /> </picture>
 
 ---
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AreebaZafarChohan&show_icons=true&theme=radical" alt="GitHub Stats" style="margin: 1rem;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AreebaZafarChohan&theme=radical" alt="GitHub Streak" style="margin: 1rem;"/>
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AreebaZafarChohan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AreebaZafarChohan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AreebaZafarChohan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
 ## 📫 Let's Connect!
 
-<div align="center" style="margin-top: 2rem;">
-  <a href="[https://linkedin.com/in/areeba-zafar-973917303/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BzfO8grE8QqedA7qRjG98FA%3D%3D]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 0.5rem;"/>
-  </a>
-  <a href="mailto:areebzafar715@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin: 0.5rem;"/>
-  </a>
-<!--   <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="margin: 0.5rem;"/>
-  </a> -->
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/areeba-zafar-973917303/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BzfO8grE8QqedA7qRjG98FA%3D%3D) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@areebazafar715) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/areebazafar715) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:areebazafar715@gmail.com) 
+
 
 <div align="center" style="margin-top: 2rem;">
   <img src="https://komarev.com/ghpvc/?username=AreebaZafarChohan&label=Profile%20views&color=6366F1&style=flat" alt="Profile Views" />
