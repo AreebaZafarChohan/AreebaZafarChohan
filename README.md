@@ -18,31 +18,29 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) ![Pydantic](https://img.shields.io/badge/pydantic-%2300C4CC.svg?style=for-the-badge&logo=pydantic&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=rest&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-ffcc00?style=for-the-badge&logo=google&logoColor=black) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Chainlit](https://img.shields.io/badge/Chainlit-663399.svg?style=for-the-badge&logo=lightning&logoColor=white) ![Sanity CMS](https://img.shields.io/badge/Sanity%20CMS-F03E2F?style=for-the-badge&logo=sanity&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-008CDD.svg?style=for-the-badge&logo=stripe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/areebazafar715/areebazafar715/main/snake/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/areebazafar715/areebazafar715/main/snake/github-snake.svg" />
-  <img alt="GitHub Snake Contribution Graph" src="https://raw.githubusercontent.com/areebazafar715/areebazafar715/main/snake/github-snake.svg" />
-</picture>
-
----
-
-## 📈 GitHub Stats
+<div align="center">
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AreebaZafarChohan&theme=dark&hide_border=false&include_all_commits=false&count_private=false) ![](https://nirzak-streak-stats.vercel.app/?user=AreebaZafarChohan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AreebaZafarChohan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=AreebaZafarChohan&theme=dark&hide_border=false&include_all_commits=false&count_private=false) &nbsp;&nbsp;&nbsp;&nbsp;![](https://github-readme-stats.vercel.app/api/top-langs/?username=AreebaZafarChohan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=AreebaZafarChohan&theme=dark&hide_border=false)
 
----
+
+</div>
+
+<div align="center">
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/areeba-zafar-973917303/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BzfO8grE8QqedA7qRjG98FA%3D%3D) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@areebazafar715) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/areebazafar715) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:areebazafar715@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/areeba-zafar-973917303/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BzfO8grE8QqedA7qRjG98FA%3D%3D)&nbsp;&nbsp;&nbsp; [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@areebazafar715)&nbsp;&nbsp;&nbsp; [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/areebazafar715) &nbsp;&nbsp;&nbsp;[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:areebazafar715@gmail.com) 
+
+</div>
+
+---
 
 <div align="center">
  ### ⚡ My GitHub Journey in Motion
 ![snake gif](https://github.com/AreebaZafarChohan/AreebaZafarChohan/blob/output/github-snake-dark.svg)
 <div/>
-
 
 <div align="center" style="margin-top: 2rem;">
   <img src="https://komarev.com/ghpvc/?username=AreebaZafarChohan&label=Profile%20views&color=6366F1&style=flat" alt="Profile Views" />
