@@ -20,7 +20,11 @@
 
 ## 🌟 Current Focus
 
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/areebazafar715/areebazafar715/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/areebazafar715/areebazafar715/output/github-snake.svg" /> <img alt="GitHub Snake Contribution Graph" src="https://raw.githubusercontent.com/areebazafar715/areebazafar715/output/github-snake.svg" /> </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/areebazafar715/areebazafar715/main/snake/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/areebazafar715/areebazafar715/main/snake/github-snake.svg" />
+  <img alt="GitHub Snake Contribution Graph" src="https://raw.githubusercontent.com/areebazafar715/areebazafar715/main/snake/github-snake.svg" />
+</picture>
 
 ---
 
