@@ -1,0 +1,33 @@
+name: GitHub Snake Game 🐍
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Create Snake Directory if Not Exists
+        run: mkdir -p snake
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: areebazafar715
+          outputs: |
+            ./snake/github-snake.svg
+            ./snake/github-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit & Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "🐍 Update GitHub Snake"
+          file_pattern: 'snake/*.svg'
