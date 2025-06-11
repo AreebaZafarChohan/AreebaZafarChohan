@@ -40,7 +40,8 @@
 <div align="center">
  ### ⚡ My GitHub Journey in Motion
 ![snake gif](https://github.com/AreebaZafarChohan/AreebaZafarChohan/blob/output/github-snake-dark.svg)
-<div/>
+  
+  <div/>
 
 <div align="center" style="margin-top: 2rem;">
   <img src="https://komarev.com/ghpvc/?username=AreebaZafarChohan&label=Profile%20views&color=6366F1&style=flat" alt="Profile Views" />
