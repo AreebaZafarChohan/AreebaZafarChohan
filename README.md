@@ -33,8 +33,8 @@
 
 ## 📫 Let's Connect
 
-- 💼 Email: `areebazafar.dev@gmail.com`
-- 🌐 Portfolio: [Coming Soon]
+- 💼 Email: `areebazafar715@gmail.com`
+- 🌐 Portfolio: [https://my-portfolio-nextjs-brown.vercel.app/]
 
 > “Stay curious, build endlessly.” — *Areeba Zafar*
 
