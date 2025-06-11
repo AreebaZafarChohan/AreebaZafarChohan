@@ -18,31 +18,8 @@
 
 ---
 
-## 🔧 Technical Skills
-
-<div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1rem 0;">
-  <div style="animation: float 3s ease-in-out infinite; background: #6366F1; color: white; padding: 0.5rem 1rem; border-radius: 0.5rem; font-weight: 600;">HTML/CSS</div>
-  <div style="animation: float 3.5s ease-in-out infinite; background: #EC4899; color: white; padding: 0.5rem 1rem; border-radius: 0.5rem; font-weight: 600;">JavaScript</div>
-  <div style="animation: float 4s ease-in-out infinite; background: #6366F1; color: white; padding: 0.5rem 1rem; border-radius: 0.5rem; font-weight: 600;">TypeScript</div>
-  <div style="animation: float 4.5s ease-in-out infinite; background: #EC4899; color: white; padding: 0.5rem 1rem; border-radius: 0.5rem; font-weight: 600;">Python</div>
-  <div style="animation: float 3s ease-in-out infinite; background: #6366F1; color: white; padding: 0.5rem 1rem; border-radius: 0.5rem; font-weight: 600;">Next.js</div>
-  <div style="animation: float 3.5s ease-in-out infinite; background: #EC4899; color: white; padding: 0.5rem 1rem; border-radius: 0.5rem; font-weight: 600;">Tailwind CSS</div>
-  <div style="animation: float 4s ease-in-out infinite; background: #6366F1; color: white; padding: 0.5rem 1rem; border-radius: 0.5rem; font-weight: 600;">FastAPI</div>
-  <div style="animation: float 4.5s ease-in-out infinite; background: #EC4899; color: white; padding: 0.5rem 1rem; border-radius: 0.5rem; font-weight: 600;">Streamlit</div>
-  <div style="animation: float 3s ease-in-out infinite; background: #6366F1; color: white; padding: 0.5rem 1rem; border-radius: 0.5rem; font-weight: 600;">OpenAI SDK</div>
-  <div style="animation: float 3.5s ease-in-out infinite; background: #EC4899; color: white; padding: 0.5rem 1rem; border-radius: 0.5rem; font-weight: 600;">REST APIs</div>
-  <div style="animation: float 4s ease-in-out infinite; background: #6366F1; color: white; padding: 0.5rem 1rem; border-radius: 0.5rem; font-weight: 600;">Databases</div>
-  <div style="animation: float 4.5s ease-in-out infinite; background: #EC4899; color: white; padding: 0.5rem 1rem; border-radius: 0.5rem; font-weight: 600;">Pydantic</div>
-  
-  <style>
-    @keyframes float {
-      0% { transform: translateY(0px); }
-      50% { transform: translateY(-5px); }
-      100% { transform: translateY(0px); }
-    }
-  </style>
-</div>
-
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) ![Pydantic](https://img.shields.io/badge/pydantic-%2300C4CC.svg?style=for-the-badge&logo=pydantic&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=rest&logoColor=white)
 ---
 
 ## 🌟 Current Focus
